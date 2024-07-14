@@ -89,6 +89,7 @@
 .left-nav {
     display: flex;
     align-items: center;
+     margin-bottom:-2;
 }
 
 .contact{
