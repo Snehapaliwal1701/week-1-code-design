@@ -7,7 +7,7 @@
 .header img{
     height: 700px;
     width: 100%;
-    margin-bottom:-2;
+    margin-bottom:-4;
    
 }
 .top-left {
@@ -89,7 +89,7 @@
 .left-nav {
     display: flex;
     align-items: center;
-     margin-bottom:-2;
+     margin-bottom:-4;
 }
 
 .contact{
